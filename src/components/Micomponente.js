@@ -5,6 +5,7 @@ class Micomponente extends Component {
     return (
       <div>
         <h1>Hola Soy Un Component</h1>
+        <h2>Component</h2>
       </div>
     );
   }
